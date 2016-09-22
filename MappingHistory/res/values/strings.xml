@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mapping History</string>
+    <string name="action_settings">Settings</string>
+    <string name="next_button_text">Next Map Slide</string>
+    <string name="prev_button_text">Previous Map Slide</string>
+    <string name="slide_panel_icon">More Information</string>
+    <string name="init_slide_text">placeholder text</string>
+
+</resources>
